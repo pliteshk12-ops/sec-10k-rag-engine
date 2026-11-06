@@ -1,0 +1,6 @@
+id,question,category,expected_page,is_answerable
+Q1,What are the primary risk factors and revenue highlights?,risk_factor,71,true
+Q2,What is the exact net income reported for the fiscal year?,quantitative,52,true
+Q3,What were the total R&D expenses for fiscal 2022?,quantitative,45,false
+Q4,How does the company handle cybersecurity insurance claims?,risk_factor,88,true
+Q5,What is the CEO's exact base salary for fiscal 2025?,quantitative,12,false
