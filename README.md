@@ -49,3 +49,18 @@ A production-hardened, evidence-first Retrieval-Augmented Generation (RAG) syste
                +----------------------------------+
                | Verified Answer + Page Citation  |
                +----------------------------------+
+               ================================================================================
+Query: "What are the primary risk factors and revenue highlights?"
+--------------------------------------------------------------------------------
+[Retrieved Context Chunk 1 (Page 71)]:
+"Disclose any future changes in the relationship between costs and revenue if events 
+are known that are reasonably likely to cause a material change..."
+
+Synthesized Answer: 
+"Based on the SEC filing disclosures, the primary risk factors relate to operational 
+expense volatility and forward-looking material changes in cost structures..."
+
+Evidence Citations:
+  • File: sample_10k.pdf | Page Number: 71
+  • Validation Check: Passed (100% Numeric & Fact Integrity Verified)
+================================================================================
