@@ -49,3 +49,4 @@ if __name__ == "__main__":
         engine.query("What are the primary risk factors and revenue highlights?")
     except Exception as e:
         console.print(f"[bold red][!] Error: {e}[/bold red]")
+# SECQueryEngine orchestrates hybrid vector retrieval and evidence verification.
