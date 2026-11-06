@@ -1,0 +1,18 @@
+# Virtual Environments
+venv/
+.venv/
+env/
+.venv*/
+
+# Local Vector Databases & Caches
+chroma_db/
+.cache/
+huggingface/
+
+# IDE files
+.vscode/
+.idea/
+
+# Large Data / PDF Files
+sample_10k.pdf
+*.pdf
